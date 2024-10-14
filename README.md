@@ -1,7 +1,11 @@
 ## Olá, eu sou conhecido como afx e esse é meu github
 <b>@afxtrem7</b>
 
-<b> Since 2017 </b> 
+<b> Since 2017 - ??? </b>
+
+<b> Founder Of Search </b>
+
+<b> t.me/afxtrem7x </b> 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
