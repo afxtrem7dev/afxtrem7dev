@@ -1,11 +1,40 @@
-## Olá, eu sou conhecido como afx e esse é meu github
-<b>@afxtrem7</b>
+## Seja bem vindo ao meu mundo. 
+<b> @afxtrem7 | #SEARCH | S.C.H </b> 
 
-<b> Since 2017 - ??? </b>
+<b> < Developer > </b> 
 
-<b> Founder Of Search </b>
+<b> @AFXTREM7X  {5760770665} </b> 
 
-<b> t.me/afxtrem7x </b> 
+<b>2017 - 2024</b>
+
+<i>➔ ¦ #AFXSEARCH               (OWNER)
+
+➔ ¦ #SEARCH    (OWNER)
+
+➔ ¦  #AFX-BR                          (OWNER)
+
+• Programming languages:
+- Php (Advanced)
+- Javascript (Advanced)
+- Python (Advanced)
+- Ruby (Advanced)
+- Csharp (Advanced)
+- Bash (Advanced)
+
+• Front-end:
+- Html (Advanced)
+- Css (Advanced)
+- Bootstrap (Advanced)
+
+• Technologies:
+- Laravel
+- Simfony
+- MySQL
+- Reactnative 
+
+🔗 t.me/afxtrem7x</i>
+
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
