@@ -3,13 +3,11 @@
 
 <b> < Developer > </b> 
 
-<b> S.C.H </b> 
-
-<b> $$$ </b>
+<b> S.C.H ~ S.C ~ SHC ~ S.H <b> 
 
 <b> @AFXTREM7X  {5760770665} </b> 
 
-<b>2017 - 2024</b>
+<b>2017 ~ 2024</b>
 
 <i>➔ ¦ #AFXSEARCH               (OWNER)
 
